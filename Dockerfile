@@ -1,4 +1,4 @@
-# Use the official Tomcat base image
+# Use the official Tomcat base image 1
 FROM tomcat:9.0
 
 # Expose port 8080 to the outside world
