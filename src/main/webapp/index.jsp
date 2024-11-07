@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Successfully Deployed Java Project  <font></h1>
+<h1><font color='red'> Hi...Successfully Deployed Java Project  <font></h1>
 
-<a href="http://www.youtube.com/@LearnWithKASTRO">Click Here To See My YouTube Channel</a>
+<a href="https://github.com/ShrutiChimangunde">Click Here To See My Github Profile</a>
   
   <h2> Thank you</h2>
   
-  <h3> Happy Learning!!! </h3>
+  <h3> Happy Learning :) !! </h3>
 
 </body>
 </html>
