@@ -6,3 +6,5 @@ EXPOSE 8080
 
 # Copy the war file to the webapps directory of Tomcat
 COPY maven-web-app.war /usr/local/tomcat/webapps/
+CMD [ "catalina.sh", "run" ]
+
