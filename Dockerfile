@@ -1,5 +1,5 @@
 # Use the official Tomcat base image 1
-FROM tomcat:9.0
+FROM alpine:3.20
 
 # Expose port 8080 to the outside world
 EXPOSE 8080
